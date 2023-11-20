@@ -1,8 +1,8 @@
 namespace Translator;
 
-public partial class Form1 : Form
+public partial class TranslatorForm : Form
 {
-    public Form1()
+    public TranslatorForm()
     {
         InitializeComponent();
     }

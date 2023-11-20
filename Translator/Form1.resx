@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
+  <!--
     Microsoft ResX Schema 
-    
+
     Version 2.0
-    
-    The primary goals of this format is to allow a simple XML format 
-    that is mostly human readable. The generation and parsing of the 
-    various data types are done through the TypeConverter classes 
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
     associated with the data types.
-    
+
     Example:
-    
+
     ... ado.net/XML headers & schema ...
     <resheader name="resmimetype">text/microsoft-resx</resheader>
     <resheader name="version">2.0</resheader>
@@ -26,36 +26,36 @@
         <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
         <comment>This is a comment</comment>
     </data>
-                
-    There are any number of "resheader" rows that contain simple 
+
+    There are any number of "resheader" rows that contain simple
     name/value pairs.
-    
-    Each data row contains a name, and value. The row also contains a 
-    type or mimetype. Type corresponds to a .NET class that support 
-    text/value conversion through the TypeConverter architecture. 
-    Classes that don't support this are serialized and stored with the 
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
     mimetype set.
-    
-    The mimetype is used for serialized objects, and tells the 
-    ResXResourceReader how to depersist the object. This is currently not 
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
     extensible. For a given mimetype the value must be set accordingly:
-    
-    Note - application/x-microsoft.net.object.binary.base64 is the format 
-    that the ResXResourceWriter will generate, however the reader can 
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
     read any of the formats listed below.
-    
+
     mimetype: application/x-microsoft.net.object.binary.base64
-    value   : The object must be serialized with 
+    value   : The object must be serialized with
             : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
             : and then encoded with base64 encoding.
     
     mimetype: application/x-microsoft.net.object.soap.base64
-    value   : The object must be serialized with 
+    value   : The object must be serialized with
             : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
             : and then encoded with base64 encoding.
 
     mimetype: application/x-microsoft.net.object.bytearray.base64
-    value   : The object must be serialized into a byte array 
+    value   : The object must be serialized into a byte array
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
@@ -117,4 +117,319 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="TranslatedTextBox.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 14pt</value>
+  </data>
+  <data name="TranslatedTextBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>66, 56</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="TranslatedTextBox.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="TranslatedTextBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>669, 227</value>
+  </data>
+  <data name="TranslatedTextBox.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;TranslatedTextBox.Name" xml:space="preserve">
+    <value>TranslatedTextBox</value>
+  </data>
+  <data name="&gt;&gt;TranslatedTextBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TranslatedTextBox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;TranslatedTextBox.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="KeyboardTranslationBox.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 14pt</value>
+  </data>
+  <data name="KeyboardTranslationBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>66, 327</value>
+  </data>
+  <data name="KeyboardTranslationBox.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="KeyboardTranslationBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>669, 227</value>
+  </data>
+  <data name="KeyboardTranslationBox.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;KeyboardTranslationBox.Name" xml:space="preserve">
+    <value>KeyboardTranslationBox</value>
+  </data>
+  <data name="&gt;&gt;KeyboardTranslationBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;KeyboardTranslationBox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;KeyboardTranslationBox.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="StartTranslatingButton.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
+    <value>GrowAndShrink</value>
+  </data>
+  <data name="StartTranslatingButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 20pt</value>
+  </data>
+  <data name="StartTranslatingButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>791, 56</value>
+  </data>
+  <data name="StartTranslatingButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>337, 90</value>
+  </data>
+  <data name="StartTranslatingButton.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="StartTranslatingButton.Text" xml:space="preserve">
+    <value>Start Translating</value>
+  </data>
+  <data name="&gt;&gt;StartTranslatingButton.Name" xml:space="preserve">
+    <value>StartTranslatingButton</value>
+  </data>
+  <data name="&gt;&gt;StartTranslatingButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;StartTranslatingButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;StartTranslatingButton.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="StopTranslatingButton.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
+    <value>GrowAndShrink</value>
+  </data>
+  <data name="StopTranslatingButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 20pt</value>
+  </data>
+  <data name="StopTranslatingButton.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="StopTranslatingButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>791, 193</value>
+  </data>
+  <data name="StopTranslatingButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>337, 90</value>
+  </data>
+  <data name="StopTranslatingButton.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="StopTranslatingButton.Text" xml:space="preserve">
+    <value>Stop Translating</value>
+  </data>
+  <data name="&gt;&gt;StopTranslatingButton.Name" xml:space="preserve">
+    <value>StopTranslatingButton</value>
+  </data>
+  <data name="&gt;&gt;StopTranslatingButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;StopTranslatingButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;StopTranslatingButton.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="KeyboardTranslationButton.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
+    <value>GrowAndShrink</value>
+  </data>
+  <data name="KeyboardTranslationButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 20pt</value>
+  </data>
+  <data name="KeyboardTranslationButton.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="KeyboardTranslationButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>791, 327</value>
+  </data>
+  <data name="KeyboardTranslationButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>337, 90</value>
+  </data>
+  <data name="KeyboardTranslationButton.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="KeyboardTranslationButton.Text" xml:space="preserve">
+    <value>Start/Stop Translating Keyboard</value>
+  </data>
+  <data name="&gt;&gt;KeyboardTranslationButton.Name" xml:space="preserve">
+    <value>KeyboardTranslationButton</value>
+  </data>
+  <data name="&gt;&gt;KeyboardTranslationButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;KeyboardTranslationButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;KeyboardTranslationButton.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="SettingsButton.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
+    <value>GrowAndShrink</value>
+  </data>
+  <data name="SettingsButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 20pt</value>
+  </data>
+  <data name="SettingsButton.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="SettingsButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>791, 464</value>
+  </data>
+  <data name="SettingsButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>337, 90</value>
+  </data>
+  <data name="SettingsButton.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="SettingsButton.Text" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="&gt;&gt;SettingsButton.Name" xml:space="preserve">
+    <value>SettingsButton</value>
+  </data>
+  <data name="&gt;&gt;SettingsButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;SettingsButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;SettingsButton.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="TranslateFromLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="TranslateFromLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 20pt</value>
+  </data>
+  <data name="TranslateFromLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>197, 603</value>
+  </data>
+  <data name="TranslateFromLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>185, 37</value>
+  </data>
+  <data name="TranslateFromLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="TranslateFromLabel.Text" xml:space="preserve">
+    <value>Translate from</value>
+  </data>
+  <data name="&gt;&gt;TranslateFromLabel.Name" xml:space="preserve">
+    <value>TranslateFromLabel</value>
+  </data>
+  <data name="&gt;&gt;TranslateFromLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TranslateFromLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;TranslateFromLabel.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="FromLanguageDropdown.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 20pt</value>
+  </data>
+  <data name="FromLanguageDropdown.Location" type="System.Drawing.Point, System.Drawing">
+    <value>142, 667</value>
+  </data>
+  <data name="FromLanguageDropdown.Size" type="System.Drawing.Size, System.Drawing">
+    <value>296, 45</value>
+  </data>
+  <data name="FromLanguageDropdown.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;FromLanguageDropdown.Name" xml:space="preserve">
+    <value>FromLanguageDropdown</value>
+  </data>
+  <data name="&gt;&gt;FromLanguageDropdown.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;FromLanguageDropdown.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;FromLanguageDropdown.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="ToLanguageDropdown.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 20pt</value>
+  </data>
+  <data name="ToLanguageDropdown.Location" type="System.Drawing.Point, System.Drawing">
+    <value>681, 667</value>
+  </data>
+  <data name="ToLanguageDropdown.Size" type="System.Drawing.Size, System.Drawing">
+    <value>296, 45</value>
+  </data>
+  <data name="ToLanguageDropdown.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;ToLanguageDropdown.Name" xml:space="preserve">
+    <value>ToLanguageDropdown</value>
+  </data>
+  <data name="&gt;&gt;ToLanguageDropdown.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ToLanguageDropdown.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ToLanguageDropdown.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TranslateToLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="TranslateToLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 20pt</value>
+  </data>
+  <data name="TranslateToLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="TranslateToLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>754, 603</value>
+  </data>
+  <data name="TranslateToLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>154, 37</value>
+  </data>
+  <data name="TranslateToLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="TranslateToLabel.Text" xml:space="preserve">
+    <value>Translate to</value>
+  </data>
+  <data name="&gt;&gt;TranslateToLabel.Name" xml:space="preserve">
+    <value>TranslateToLabel</value>
+  </data>
+  <data name="&gt;&gt;TranslateToLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TranslateToLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;TranslateToLabel.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>7, 15</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1172, 820</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Translator</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>TranslatorForm</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>
