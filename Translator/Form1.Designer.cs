@@ -86,6 +86,7 @@ partial class TranslatorForm
         resources.ApplyResources(FromLanguageDropdown, "FromLanguageDropdown");
         FromLanguageDropdown.FormattingEnabled = true;
         FromLanguageDropdown.Name = "FromLanguageDropdown";
+        FromLanguageDropdown.SelectedIndexChanged += FromLanguageDropdown_SelectedIndexChanged;
         // 
         // ToLanguageDropdown
         // 
@@ -115,6 +116,7 @@ partial class TranslatorForm
         Controls.Add(TranslatedTextBox);
         FormBorderStyle = FormBorderStyle.FixedSingle;
         Name = "TranslatorForm";
+        Load += TranslatorForm_Load;
         ResumeLayout(false);
         PerformLayout();
     }
