@@ -45,6 +45,7 @@ partial class TranslatorForm
         // 
         resources.ApplyResources(TranslatedTextBox, "TranslatedTextBox");
         TranslatedTextBox.Name = "TranslatedTextBox";
+        TranslatedTextBox.ReadOnly = true;
         // 
         // KeyboardTranslationBox
         // 
