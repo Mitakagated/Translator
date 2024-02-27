@@ -8,8 +8,4 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="Fluent.LibreTranslate" Version="1.0.6" />
-  </ItemGroup>
-
 </Project>

@@ -336,6 +336,9 @@
   <data name="FromLanguageDropdown.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 20pt</value>
   </data>
+  <data name="FromLanguageDropdown.ItemHeight" type="System.Int32, mscorlib">
+    <value>37</value>
+  </data>
   <data name="FromLanguageDropdown.Location" type="System.Drawing.Point, System.Drawing">
     <value>142, 667</value>
   </data>
